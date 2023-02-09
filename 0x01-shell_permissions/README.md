@@ -1,1 +1,1 @@
-Script for who am I
+script that prints all the groups the current user is part of
