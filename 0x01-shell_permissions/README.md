@@ -1,1 +1,1 @@
-Script that adds execution permission for all to thhe file
+Script that set permission to the file hello
