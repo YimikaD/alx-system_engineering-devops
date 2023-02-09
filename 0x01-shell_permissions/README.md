@@ -1,1 +1,1 @@
-My name is Betty readme
+Script for who am I
