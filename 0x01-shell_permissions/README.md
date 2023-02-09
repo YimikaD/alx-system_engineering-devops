@@ -1,1 +1,1 @@
-Script that creates a new directory
+Script that change the group owner of hello file
