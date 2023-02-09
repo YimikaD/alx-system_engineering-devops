@@ -1,1 +1,1 @@
-Script that set permission to the file hello
+Script that set the mode of file
