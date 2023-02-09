@@ -1,1 +1,1 @@
-Script for 102-if_only task
+Script that will play the StarWars IV episode in the terminal.
