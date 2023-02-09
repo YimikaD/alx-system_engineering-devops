@@ -1,1 +1,1 @@
-Script that change the owner and group of a file in both files and folder of a working directory
+Script for 101-symbolic_link_permissions task
