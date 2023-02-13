@@ -1,1 +1,1 @@
-Script that displays the contnet of file
+Script displaying two files content
