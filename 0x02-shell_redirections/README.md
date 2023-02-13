@@ -1,1 +1,1 @@
-Display the last 10 lines readme
+Display first line
