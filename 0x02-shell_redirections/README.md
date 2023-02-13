@@ -1,1 +1,1 @@
-Script displaying two files content
+Display the last 10 lines readme
