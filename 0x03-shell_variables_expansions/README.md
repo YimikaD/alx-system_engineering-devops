@@ -1,1 +1,1 @@
-Script that write action to the path
+Script that count numbers of directories
