@@ -1,1 +1,1 @@
-Script that create a global variable
+Script that creates addition
