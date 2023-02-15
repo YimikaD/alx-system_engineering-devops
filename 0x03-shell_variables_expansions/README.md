@@ -1,1 +1,1 @@
-Script that list environment variables
+Script that list all local, environment variables and function
