@@ -1,1 +1,1 @@
-Script that print the result of division
+Script that pass result to another
