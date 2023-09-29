@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-#Displays Best school 10 times
-
-for _i in(1..10); do
+#This script is displaying "Best school" 10 times
+for _ in range {1..10}
+do
 	echo "Best School"
 done
