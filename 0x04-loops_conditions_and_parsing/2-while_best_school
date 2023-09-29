@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#This script displays "besbt school" using while loop
+c=0
+while [ $c -le 9 ]
+do
+	echo "Best School"
+	c=$((c + 1))
+done
