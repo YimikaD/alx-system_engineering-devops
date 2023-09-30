@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Script that displays its own pid
+own_pid=$$
+echo "The script pid is : $own_pid"
