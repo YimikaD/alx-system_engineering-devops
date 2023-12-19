@@ -1,0 +1,8 @@
+#!/usr/bin/ env bash
+# Configure a firewall with ufw to block incominh traffic
+
+sudo ufw enable
+sudo ufw reset
+sudo ufw allow 22/tcp
+sudo ufw allow 443
+sudo ufw allow 80
